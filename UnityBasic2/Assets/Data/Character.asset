@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9dfe124041aaf4bb58647f699c74e7, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uC544\uB9B0"
+    title: "\uC8FC\uC778\uACF5"
+    image: arin_angry
+    description: "\uC544\uB9B0_\uD654\uB09C\uD45C\uC815"
+  - id: 10102
+    name: "\uC544\uB9B0"
+    title: "\uC8FC\uC778\uACF5"
+    image: arin_sad
+    description: "\uC544\uB9B0_\uC2AC\uD508\uD45C\uC815"
+  - id: 10103
+    name: "\uC544\uB9B0"
+    title: "\uC8FC\uC778\uACF5"
+    image: arin_curious
+    description: "\uC544\uB9B0_\uAD81\uAE08\uD55C\uD45C\uC815"
+  - id: 10104
+    name: "\uC544\uB9B0"
+    title: "\uC8FC\uC778\uACF5"
+    image: arin_smile
+    description: "\uC544\uB9B0_\uC6C3\uB294\uD45C\uC815"
+  - id: 10105
+    name: "\uC544\uB9B0"
+    title: "\uC8FC\uC778\uACF5"
+    image: arin_tired
+    description: "\uC544\uB9B0_\uC9C0\uCE5C\uD45C\uC815"
